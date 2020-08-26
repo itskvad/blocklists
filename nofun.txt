@@ -1,13 +1,26 @@
 #kids games
-(\.|^)abcya\.com$
-(\.|^)kiz10\.com$
-(\.|^)puzzles\.msn\.com$
-(\.|^)orteil\.dashnet\.org$
-(\.|^)coolmathgames\.com$
-(\.|^)kogama\.com$
-(\.|^)flashkof\.fr$
-(\.|^)zone\.msn\.com$
-(\.|^)hole-io.\com$
+abcya.com
+kiz10.com
+puzzles.msn.com
+orteil.dashnet.org
+coolmathgames.com
+kogama.com
+flashkof.fr
+zone.msn.com
+hole-io.com
+
+www.abcya.com
+www.kiz10.com
+www.puzzles.msn.com
+www.orteil.dashnet.org
+www.coolmathgames.com
+www.kogama.com
+www.flashkof.fr
+www.zone.msn.com
+www.hole-io.com
+
 
 #search engines
-(\.|^)yahoo\.com$
+yahoo.com
+
+
