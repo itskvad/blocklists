@@ -8,7 +8,6 @@ kogama.com
 flashkof.fr
 zone.msn.com
 hole-io.com
-
 www.abcya.com
 www.kiz10.com
 www.puzzles.msn.com
@@ -18,9 +17,6 @@ www.kogama.com
 www.flashkof.fr
 www.zone.msn.com
 www.hole-io.com
-
-
 #search engines
 yahoo.com
-
-
+www.yahoo.com
