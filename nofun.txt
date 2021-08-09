@@ -3,7 +3,7 @@ mangasee123.com
 www.mangasee123.com
 #kids games
 twoplayergames.org
-abcya.com
+#abcya.com
 kiz10.com
 puzzles.msn.com
 orteil.dashnet.org
@@ -12,7 +12,7 @@ kogama.com
 flashkof.fr
 zone.msn.com
 hole-io.com
-www.abcya.com
+#www.abcya.com
 www.kiz10.com
 www.puzzles.msn.com
 www.orteil.dashnet.org
